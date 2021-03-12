@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{789BE72C-8BB1-41F1-8EA5-A415E5890F9E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Cashier_System_Modified_2._0.My.MyApplication</StartupObject>
+    <RootNamespace>Cashier_System_Modified_2._0</RootNamespace>
+    <AssemblyName>Cashier System Modified 2.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Cashier System Modified 2.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Cashier System Modified 2.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoFlStd.Designer.vb">
+      <DependentUpon>InfoFlStd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoFlStd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoKasLab.Designer.vb">
+      <DependentUpon>InfoKasLab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoKasLab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoKeyBoard.Designer.vb">
+      <DependentUpon>InfoKeyBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoKeyBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoMonitor.Designer.vb">
+      <DependentUpon>InfoMonitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoMonitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoMouse.Designer.vb">
+      <DependentUpon>InfoMouse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoMouse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoMSOff.Designer.vb">
+      <DependentUpon>InfoMSOff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoMSOff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoMSVisualStudio.Designer.vb">
+      <DependentUpon>InfoMSVisualStudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoMSVisualStudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoNintendo.Designer.vb">
+      <DependentUpon>InfoNintendo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoNintendo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoNotebook.Designer.vb">
+      <DependentUpon>InfoNotebook.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoNotebook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPCBox.Designer.vb">
+      <DependentUpon>InfoPCBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPCBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPhotoshop.Designer.vb">
+      <DependentUpon>InfoPhotoshop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPhotoshop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPS3.Designer.vb">
+      <DependentUpon>InfoPS3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPS3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPS4.Designer.vb">
+      <DependentUpon>InfoPS4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPS4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoXBox360.Designer.vb">
+      <DependentUpon>InfoXBox360.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoXBox360.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoXboxOne.Designer.vb">
+      <DependentUpon>InfoXboxOne.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InfoXboxOne.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoFlStd.resx">
+      <DependentUpon>InfoFlStd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoKasLab.resx">
+      <DependentUpon>InfoKasLab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoKeyBoard.resx">
+      <DependentUpon>InfoKeyBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoMonitor.resx">
+      <DependentUpon>InfoMonitor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoMouse.resx">
+      <DependentUpon>InfoMouse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoMSOff.resx">
+      <DependentUpon>InfoMSOff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoMSVisualStudio.resx">
+      <DependentUpon>InfoMSVisualStudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoNintendo.resx">
+      <DependentUpon>InfoNintendo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoNotebook.resx">
+      <DependentUpon>InfoNotebook.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPCBox.resx">
+      <DependentUpon>InfoPCBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPhotoshop.resx">
+      <DependentUpon>InfoPhotoshop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPS3.resx">
+      <DependentUpon>InfoPS3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPS4.resx">
+      <DependentUpon>InfoPS4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoXBox360.resx">
+      <DependentUpon>InfoXBox360.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoXboxOne.resx">
+      <DependentUpon>InfoXboxOne.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
