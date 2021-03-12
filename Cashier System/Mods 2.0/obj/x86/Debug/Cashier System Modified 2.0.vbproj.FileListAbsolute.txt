@@ -1,0 +1,66 @@
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.exe
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.xml
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.exe
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.xml
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.exe.config
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.frmLogin.resources
+C:\Users\user\AppData\Local\Temporary Projects\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.SplashScreen.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.exe.config
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.exe
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.xml
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.exe
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.pdb
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.xml
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.frmLogin.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMonitor.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.SplashScreen.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoKeyBoard.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMouse.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoNotebook.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPCBox.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoFlStd.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoKasLab.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMSOff.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMSVisualStudio.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoNintendo.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPhotoshop.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPS3.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPS4.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoXBox360.resources
+C:\Users\user\documents\visual studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoXboxOne.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.exe.config
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.exe
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.xml
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.pdb
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.exe
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.pdb
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\bin\Debug\Cashier System Modified 2.0.xml
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.Form1.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.frmLogin.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoFlStd.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoKasLab.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoKeyBoard.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMonitor.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMouse.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMSOff.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoMSVisualStudio.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoNintendo.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoNotebook.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPCBox.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPhotoshop.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPS3.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoPS4.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoXBox360.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.InfoXboxOne.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.Resources.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier_System_Modified_2._0.SplashScreen.resources
+C:\Users\keitu\OneDrive\Documents\New folder\Visual Studio 2010\Projects\Cashier System Modified 2.0\Cashier System Modified 2.0\obj\x86\Debug\Cashier System Modified 2.0.vbproj.GenerateResource.Cache
